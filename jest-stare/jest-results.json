@@ -1,0 +1,345 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 2,
+  "numPassedTests": 17,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTodoTests": 0,
+  "numTotalTestSuites": 2,
+  "numTotalTests": 17,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1731868289111,
+  "success": false,
+  "testResults": [
+    {
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 8,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 1731868292051,
+        "runtime": 2346,
+        "slow": false,
+        "start": 1731868289705
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "uncheckedKeys": [],
+        "unmatched": 0,
+        "updated": 0
+      },
+      "testFilePath": "C:\\Solution\\calculateinterest.test.ts",
+      "testResults": [
+        {
+          "ancestorTitles": [
+            "calculateInterest function"
+          ],
+          "duration": 20,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "calculateInterest function Test whether error returned if the principal is -ve",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether error returned if the principal is -ve"
+        },
+        {
+          "ancestorTitles": [
+            "calculateInterest function"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "calculateInterest function Test whether error returned if the rate is -ve",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether error returned if the rate is -ve"
+        },
+        {
+          "ancestorTitles": [
+            "calculateInterest function"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "calculateInterest function Test whether error returned if the principal is 0",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether error returned if the principal is 0"
+        },
+        {
+          "ancestorTitles": [
+            "calculateInterest function"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "calculateInterest function Test whether error returned if the rate is 0",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether error returned if the rate is 0"
+        },
+        {
+          "ancestorTitles": [
+            "calculateInterest function"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "calculateInterest function Test whether result given correctly in case of valid values",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether result given correctly in case of valid values"
+        },
+        {
+          "ancestorTitles": [
+            "calculateInterest function"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "calculateInterest function Test whether result given correctly in case of rate is decimal",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether result given correctly in case of rate is decimal"
+        },
+        {
+          "ancestorTitles": [
+            "calculateInterest function"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "calculateInterest function Test whether result given correctly if both input is decimal",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether result given correctly if both input is decimal"
+        },
+        {
+          "ancestorTitles": [
+            "calculateInterest function"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "calculateInterest function Test whether result given correctly in case of input with 4 or more decimal places ",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether result given correctly in case of input with 4 or more decimal places "
+        }
+      ],
+      "failureMessage": null
+    },
+    {
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 9,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 1731868292125,
+        "runtime": 2421,
+        "slow": false,
+        "start": 1731868289704
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "uncheckedKeys": [],
+        "unmatched": 0,
+        "updated": 0
+      },
+      "testFilePath": "C:\\Solution\\ordermgmt.test.ts",
+      "testResults": [
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 24,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether able to add single item to the order",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether able to add single item to the order"
+        },
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether able to add multiple items to the order",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether able to add multiple items to the order"
+        },
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 10,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether we can add same items to the order again",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether we can add same items to the order again"
+        },
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether able to remove item from the order",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether able to remove item from the order"
+        },
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 0,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether able to remove multiple items from the order",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether able to remove multiple items from the order"
+        },
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether order is processed if there are items",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether order is processed if there are items"
+        },
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 13,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether error displayed when trying to process empty order",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 2,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether error displayed when trying to process empty order"
+        },
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether error displayed when adding an item from a processed order",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether error displayed when adding an item from a processed order"
+        },
+        {
+          "ancestorTitles": [
+            "Test for order management scenarios"
+          ],
+          "duration": 1,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Test for order management scenarios Test whether error displayed when removing an item from a processed order",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 1,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Test whether error displayed when removing an item from a processed order"
+        }
+      ],
+      "failureMessage": null
+    }
+  ],
+  "wasInterrupted": false
+}
